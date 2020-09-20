@@ -1,0 +1,80 @@
+body{
+	background: url("https://img.freepik.com/free-vector/clouds-background-with-stars-text-soace_1017-25499.jpg?size=626&ext=jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: top left;
+}
+header{
+	margin-top: 0;
+	background: url(../imgs/cheatershandwritten.jpeg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top left;
+	padding: 10%;
+}
+div{
+	padding: 1%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+header h1{
+	color: white;
+	margin-bottom: 0;
+}
+#opening{
+	background: #c3e6b7;
+	margin-top: 0;
+}
+#sidenav{
+	background: #6dd2f9;
+	font-weight: bold;
+	margin-top: 0;
+}
+#sidenav a{
+	color: #17511a;
+	display: block;
+}
+#sidenav a:hover{
+	color: #fffb02;
+	background-color: #020fd7;
+	padding: 1%;
+	border-radius: 5px;
+}
+#last{
+	color: white;
+	text-align: center;
+	font-size: 80%;
+	background-color: #202071;
+}
+.icon{
+	color: white;
+	margin-left: 1%;
+}
+.member{
+	margin: 10% 1% 0 1%;
+}
+#kashyap{
+	background-color: #30ceff;
+	border-radius: 8px;
+	margin-top: 1% !important;
+}
+#abhinav{
+	background-color: #ff7070;
+	border-radius: 8px;
+}
+#tiwari{
+	background-color: #a295bd;
+	border-radius: 8px;
+}
+#kishore{
+	background-color: #48ae4f;
+	border-radius: 8px;
+}
+#saini{
+	background-color: #dbbd61;
+	border-radius: 8px;
+}
+#sharma{
+	background-color: #00ffc3;
+	border-radius: 8px;
+}
